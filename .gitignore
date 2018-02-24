@@ -4,6 +4,5 @@ virtualenv
 .vscode
 __pycache__
 *.pyc
-static/
 .env
 .DS_Store
